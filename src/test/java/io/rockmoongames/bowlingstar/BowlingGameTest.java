@@ -19,4 +19,10 @@ public class BowlingGameTest {
 	public void roshinTestThree(){
 		
 	}
+	
+    @Test
+	public void roshinTestFour(){
+		
+	}
+	
 }
