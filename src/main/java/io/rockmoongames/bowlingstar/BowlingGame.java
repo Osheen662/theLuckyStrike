@@ -60,4 +60,7 @@ public class BowlingGame {
         return rolls[rollIndex] == 10;
     }
 
+	private boolean isHurt(){
+	
+	}
 }
